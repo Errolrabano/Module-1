@@ -1,4 +1,4 @@
-My name is Errol Rabano
+My name is Errol Rabano, I am 19 years old and will be turning 20 this year on September 9th.
 I have a cat named Maki
 I love to play games, watch, eat and cook but I tend to be lazy. 
 
