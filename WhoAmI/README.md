@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Imagine
-------------------------
-
-=======
 My name is Errol Rabano, I am 19 years old and will be turning 20 this year on September 9th.
 
 I have a cat named Maki.
@@ -14,4 +9,3 @@ Path to the current directory is /Users/student/Module1/WhoAmI
 Path to the next directory is /Users/student/Module1/WhatIsSomethingIKnow
 
 Path to the previous directory is /Users/student/Module1/
->>>>>>> b5962d8f6d1da2f24c725d61d934f93add055cdc
