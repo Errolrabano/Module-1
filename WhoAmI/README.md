@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3c7bc88224e4a54b033ae84524199284a6545ff5
 My name is Errol Rabano, I am 19 years old and will be turning 20 this year on September 9th.
 
 I have a cat named Maki.
