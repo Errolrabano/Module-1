@@ -10,5 +10,4 @@ Path to the next directory is /Users/student/Module1/WhatIsSomethingIKnow
 
 Path to the previous directory is /Users/student/Module1/
 
-My name is Errol Rabano, I am 19 years old and will be turning 20 this year on September 9th.
 
